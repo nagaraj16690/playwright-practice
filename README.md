@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ParaBank Playwright TypeScript Automation Framework
 
 > A banking-domain test automation framework built with **Playwright + TypeScript**, covering **UI automation, REST API testing, end-to-end workflows, negative testing, cross-browser execution, data-driven testing, and security-focused validation**.
@@ -1316,3 +1317,7 @@ The goal is to demonstrate how a QA automation engineer can design and evolve a 
 ## 📌 Repository Status
 
 **Active automation framework — continuously evolving toward stronger test isolation, security coverage, and CI/CD execution.**
+=======
+# playwright-practice
+my repository to practice git
+>>>>>>> b416ab58843e9284d878a31a6728ba22cc9be7d4
