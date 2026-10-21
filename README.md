@@ -1,2 +1,2 @@
 # playwright-practice
-my repository practice git
+my repository to practice git
